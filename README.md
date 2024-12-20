@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trirath Nondhalee (Mew)</h1>
+<h1 align="center">Hi 👋, I'm Mew</h1>
 
 ### 🎓 About Me  
 - 🏫 **Currently Pursuing**: Computer Engineering & Digital Technology at **Chulalongkorn University**  
