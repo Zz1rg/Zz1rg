@@ -15,7 +15,7 @@
 
 ### ⚡ Fun Facts  
 - 💡 I thrive on solving complex problems and diving into challenging projects.  
-- 🎮 I have a passion for game development using unity. 
+- 🎮 I have a passion for game development!
 
 ---
 
