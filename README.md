@@ -76,3 +76,10 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
   </a> 
 </p>
+
+---
+
+### 📂 Projects
+- ♟️ Chessir (SimpleChess Game) : [Chessir](https://github.com/Zz1rg/Chessir)
+- 📊 ClassiPaper (AI/ML Paper's Subject Prediction) : [ClassiPaper](https://github.com/Taihenc/ClassiPaper), 
+  For this one I contributed on the data visualization and demo app part!
